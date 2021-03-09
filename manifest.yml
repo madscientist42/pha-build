@@ -1,0 +1,7 @@
+repos: 
+  - url: http://git.yoctoproject.org/git/poky.git
+    dest: .
+    branch: gatesgarth
+  - url: git://git.openembedded.org/meta-openembedded
+    dest: meta-openembedded 
+    branch: gatesgarth
